@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NishthaSoni
-- 👀 I’m interested in Artificial Intelligence and Machine Learning
-- 🌱 I’m currently learning Android Development...
-- 💞️ I have a deep understanding of some popular tech languages like C/C++/Python(Numpy, Pandas, matplotlib)/Java/HTML/CSS.Apart from this I am a content writer.
+- 👀 I’m woring on booming Technologies-Artificial Intelligence and Machine Learning and also pursuing BTEch in same 
+- 🌱 I’m an Android Developer/ Unity Developer/ Web Developer
+- 💞️ I have a deep understanding of some popular tech languages like C/C++/Python(Numpy, Pandas, matplotlib)/Java. Apart from this I am a Content Writer.
 - 📫 How to reach me->https://www.linkedin.com/in/nishtha-soni-2b1002205
 - 
 <!---
