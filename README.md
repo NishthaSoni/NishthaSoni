@@ -3,7 +3,7 @@
 -  
 - 👀 Currently I am woring on booming Technologies-Artificial Intelligence and Machine Learning and also pursuing BTech in Same. 
 - 🌱 Domain Knowledge Includes->
-- Android Studio/ Unity-3D/ Blender/ Web Development (HTML, CSS, JavasSript)
+- Artificial Intelligence/ Machine Learning/ Android Studio/ Unity-3D/ Blender/ Web Development(HTML, CSS, JavasSript)/ Databases(MySQL/SQL)
 - 💞️ I have been experienced in everyday popular technical languages like C/C++/Python(Numpy, Pandas, matplotlib, scikit-learn)/ Java(DSA). Beside this I am a Content Writer.
 - 
 - 📫 How to reach me->https://www.linkedin.com/in/nishtha-soni-2b1002205
